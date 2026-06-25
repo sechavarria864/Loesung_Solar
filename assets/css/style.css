@@ -2638,7 +2638,7 @@ p {
   align-items: stretch;
   max-width: 1280px;
   margin: 0 auto;
-  padding: 72px 0 72px 48px;
+  padding: 100px 0 72px 48px;
   overflow-x: hidden;
   min-height: 600px;
 }
@@ -2808,7 +2808,7 @@ p {
 
   .solar-hero {
     grid-template-columns: 1fr;
-    padding: 40px 0 0;
+    padding: 100px 0 0;
     overflow: visible;
     min-height: unset;
   }
